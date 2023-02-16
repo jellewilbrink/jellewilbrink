@@ -1,7 +1,5 @@
 Hey, I'm Jelle!
 
-Coding is more than just a job, it's a passion.
-
-That is why on my profile you will find both study/work related and personal projects.
+I love to code 💻 and I love how it serves to make people's lifes just that little bit nicer 🌞.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wilbrinkje&show_icons=true&theme=default)
